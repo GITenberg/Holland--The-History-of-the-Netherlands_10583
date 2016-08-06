@@ -1,0 +1,35 @@
+_repo: Holland--The-History-of-the-Netherlands_10583
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Hawthorne, Julian
+    birthdate: 1846
+    deathdate: 1934
+    gutenberg_agent_id: '675'
+    url: http://www.gutenberg.org/2009/agents/675
+    wikipedia: http://en.wikipedia.org/wiki/Julian_Hawthorne
+creator:
+  author:
+    agent_name: Grattan, Thomas Colley
+    alias: Grattan, T. C. (Thomas Colley)
+    birthdate: 1792
+    deathdate: 1864
+    gutenberg_agent_id: '3586'
+    url: http://www.gutenberg.org/2009/agents/3586
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Colley_Grattan
+description: Supplementary chapter by Julian Hawthorne.
+gutenberg_bookshelf: Children's History
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10583'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DJ'
+- !lcsh 'Netherlands -- History'
+- GITenberg
+title: 'Holland: The History of the Netherlands'
+url: http://www.gutenberg.org/ebooks/10583
